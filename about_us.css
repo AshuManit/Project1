@@ -1,0 +1,73 @@
+*
+{
+	margin: 0px;
+	box-sizing: ;
+}
+body
+{
+	background-image: url("white.jpg");
+	background-size: cover;
+}
+nav
+{
+	width: 100%;
+	height: 100px;
+	background-color: #000;
+	text-decoration: none;
+}
+nav ul li
+{
+	text-align: center;
+}
+nav ul li a
+{
+	font-size: 50px;
+	margin-top: 40px;
+	color: white;
+	text-decoration: none;
+	text-align: right;
+}
+#container
+{
+	width: 70%;
+	height: 60vh;
+	box-shadow: 13px 30px 20px #000,-13px -13px 20px #fff;
+	margin-top: 5%;
+	margin-left: 15%;
+	border-radius: 0% 20% 0% 15%;
+	background-color: #0007;
+	display: flex;
+}
+#jagdish
+{
+	width: 50%;
+	height: 60vh;
+	background-color: #789;
+	border-radius: 0% 0% 0% 15%;
+	text-align: center;
+	border-right: 3px solid white;
+}
+#ashutosh
+{
+	width: 50%;
+	height: 60vh;
+	background-color: white;
+	border-radius: 0% 20% 0% 0%;
+	text-align: center;
+	background-color: #789;
+}
+fieldset
+{
+	border: none;
+}
+ol
+{
+	font-size: 25px;
+}
+ol li a
+{
+	text-align: left;
+	font-size: 25px;
+	color: white;
+	text-decoration: none;
+}
